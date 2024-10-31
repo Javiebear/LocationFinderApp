@@ -1,0 +1,100 @@
+Toronto, ON, Canada/79.3832/43.6532
+Mississauga, ON, Canada/79.6441/43.5890
+Brampton, ON, Canada/79.7617/43.7315
+Oakville, ON, Canada/79.6877/43.4675
+Milton, ON, Canada/79.8829/43.5183
+Burlington, ON, Canada/79.7990/43.3255
+Markham, ON, Canada/79.3364/43.8561
+Vaughan, ON, Canada/79.5032/43.8361
+Richmond Hill, ON, Canada/79.4374/43.8828
+Ajax, ON, Canada/79.0204/43.8501
+Pickering, ON, Canada/79.0892/43.8384
+Whitby, ON, Canada/78.9429/43.8971
+Uxbridge, ON, Canada/79.1200/44.1095
+Aurora, ON, Canada/79.4663/44.0065
+Newmarket, ON, Canada/79.4648/44.0592
+Georgetown, ON, Canada/79.9217/43.6503
+Caledon, ON, Canada/79.9990/43.8420
+King City, ON, Canada/79.5213/43.9248
+Bolton, ON, Canada/79.7357/43.8798
+Stouffville, ON, Canada/79.2444/43.9706
+Nobleton, ON, Canada/79.6014/43.9205
+Schomberg, ON, Canada/79.6790/43.9973
+Tottenham, ON, Canada/79.8097/44.0293
+Thornhill, ON, Canada/79.4207/43.8116
+Woodbridge, ON, Canada/79.5959/43.7870
+Maple, ON, Canada/79.5090/43.8531
+Unionville, ON, Canada/79.3134/43.8540
+Cornell, ON, Canada/79.2408/43.8906
+Brooklin, ON, Canada/78.9633/43.9673
+Alton, ON, Canada/80.0265/43.8940
+Palgrave, ON, Canada/79.9144/43.9561
+Belfountain, ON, Canada/80.0075/43.8042
+Kleinburg, ON, Canada/79.6251/43.8363
+Mount Albert, ON, Canada/79.3221/44.1359
+Ballantrae, ON, Canada/79.3197/44.0272
+Sutton, ON, Canada/79.3678/44.3051
+Pefferlaw, ON, Canada/79.2574/44.3074
+Keswick, ON, Canada/79.4521/44.2201
+Beaverton, ON, Canada/79.1719/44.4262
+Goodwood, ON, Canada/79.1156/44.0457
+Port Perry, ON, Canada/78.9445/44.1028
+Whitby Shores, ON, Canada/78.9456/43.8624
+Cabbagetown, ON, Canada/79.3663/43.6630
+Leslieville, ON, Canada/79.3366/43.6669
+The Beaches, ON, Canada/79.2941/43.6715
+Scarborough, ON, Canada/79.2518/43.7731
+Danforth Village, ON, Canada/79.3185/43.6806
+Etobicoke, ON, Canada/79.5328/43.7066
+Long Branch, ON, Canada/79.5414/43.5947
+Mimico, ON, Canada/79.4885/43.6167
+Islington, ON, Canada/79.5352/43.6536
+Rexdale, ON, Canada/79.5868/43.7312
+Weston, ON, Canada/79.5090/43.7063
+York, ON, Canada/79.4738/43.6896
+Malton, ON, Canada/79.6270/43.7156
+Cooksville, ON, Canada/79.6121/43.5786
+Clarkson, ON, Canada/79.6353/43.5124
+Port Credit, ON, Canada/79.5856/43.5512
+Lorne Park, ON, Canada/79.5993/43.5321
+Streetsville, ON, Canada/79.7130/43.5893
+Erindale, ON, Canada/79.6616/43.5487
+Leaside, ON, Canada/79.3632/43.7097
+Rosedale, ON, Canada/79.3778/43.6814
+North York, ON, Canada/79.3984/43.7615
+Willowdale, ON, Canada/79.3870/43.7704
+Downsview, ON, Canada/79.4856/43.7488
+Don Mills, ON, Canada/79.3432/43.7445
+Bayview Village, ON, Canada/79.3797/43.7754
+Lawrence Park, ON, Canada/79.4041/43.7268
+Forest Hill, ON, Canada/79.4165/43.6934
+High Park, ON, Canada/79.4656/43.6490
+Bloor West Village, ON, Canada/79.4783/43.6505
+Junction Triangle, ON, Canada/79.4562/43.6616
+Liberty Village, ON, Canada/79.4148/43.6388
+Parkdale, ON, Canada/79.4303/43.6408
+Dufferin Grove, ON, Canada/79.4316/43.6565
+Kensington Market, ON, Canada/79.4006/43.6553
+Riverdale, ON, Canada/79.3525/43.6715
+Greektown, ON, Canada/79.3494/43.6795
+Bramalea, ON, Canada/79.7266/43.7315
+South Hill, ON, Canada/79.4068/43.6854
+Bridle Path, ON, Canada/79.3748/43.7347
+Moore Park, ON, Canada/79.3806/43.6901
+Yorkville, ON, Canada/79.3933/43.6703
+Summerhill, ON, Canada/79.3886/43.6820
+Chaplin Estates, ON, Canada/79.4114/43.6987
+Bloor-Yorkville, ON, Canada/79.3877/43.6718
+The Annex, ON, Canada/79.4057/43.6707
+Casa Loma, ON, Canada/79.4094/43.6786
+Chinatown, ON, Canada/79.3964/43.6532
+The Distillery District, ON, Canada/79.3618/43.6506
+Liberty Village, ON, Canada/79.4176/43.6388
+Queen West, ON, Canada/79.4003/43.6455
+Leslie Street Spit, ON, Canada/79.3317/43.6313
+Acton, ON, Canada/80.0418/43.6280
+Caledon East, ON, Canada/79.8782/43.8759
+Huttonville, ON, Canada/79.7874/43.6571
+Terra Cotta, ON, Canada/80.0289/43.7356
+Ashburn, ON, Canada/78.9546/44.0367
+Mount Pleasant, ON, Canada/79.8357/43.7133
